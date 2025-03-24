@@ -1,0 +1,1288 @@
+[
+  {
+    "url": "pristinefinefoods.com",
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": [
+            "FoodEstablishment",
+            "Organization"
+          ],
+          "@id": "https://pristinefinefoods.com/#organization",
+          "name": "Pristine Fine Foods",
+          "url": "https://pristinefinefoods.com",
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://pristinefinefoods.com/#logo",
+            "url": "https://pristinefinefoods.com/wp-content/uploads/2022/05/logo_black-1.svg",
+            "contentUrl": "https://pristinefinefoods.com/wp-content/uploads/2022/05/logo_black-1.svg",
+            "caption": "Pristine Fine Foods",
+            "inLanguage": "en-US"
+          },
+          "openingHours": [
+            "Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday 09:00-17:00"
+          ],
+          "image": {
+            "@id": "https://pristinefinefoods.com/#logo"
+          }
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://pristinefinefoods.com/#website",
+          "url": "https://pristinefinefoods.com",
+          "name": "Pristine Fine Foods",
+          "publisher": {
+            "@id": "https://pristinefinefoods.com/#organization"
+          },
+          "inLanguage": "en-US",
+          "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://pristinefinefoods.com/?s={search_term_string}",
+            "query-input": "required name=search_term_string"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "https://pristinefinefoods.com/wp-content/uploads/2022/06/logo-1.svg",
+          "url": "https://pristinefinefoods.com/wp-content/uploads/2022/06/logo-1.svg",
+          "width": "200",
+          "height": "200",
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://pristinefinefoods.com/#webpage",
+          "url": "https://pristinefinefoods.com/",
+          "name": "Pristine Fine Foods",
+          "datePublished": "2022-05-29T02:39:06+00:00",
+          "dateModified": "2025-01-07T14:56:33+00:00",
+          "about": {
+            "@id": "https://pristinefinefoods.com/#organization"
+          },
+          "isPartOf": {
+            "@id": "https://pristinefinefoods.com/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://pristinefinefoods.com/wp-content/uploads/2022/06/logo-1.svg"
+          },
+          "inLanguage": "en-US"
+        }
+      ]
+    },
+    "meta_data": {
+      "viewport": "width=device-width, initial-scale=1",
+      "description": "Pristine Fine Foods | Grocery Outlet Toronto | Cash and Carry Toronto open to Public | Turkish Grocery | Italian Grocery Store",
+      "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+      "og:locale": "en_US",
+      "og:type": "website",
+      "og:title": "Pristine Fine Foods",
+      "og:description": "Pristine Fine Foods | Grocery Outlet Toronto | Cash and Carry Toronto open to Public | Turkish Grocery | Italian Grocery Store",
+      "og:url": "https://pristinefinefoods.com/",
+      "og:site_name": "Pristine Fine Foods",
+      "og:updated_time": "2025-01-07T14:56:33+00:00",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Pristine Fine Foods",
+      "twitter:description": "Pristine Fine Foods | Grocery Outlet Toronto | Cash and Carry Toronto open to Public | Turkish Grocery | Italian Grocery Store",
+      "twitter:label1": "Written by",
+      "twitter:data1": "PristineFineFoods",
+      "twitter:label2": "Time to read",
+      "twitter:data2": "2 minutes",
+      "google-site-verification": "8kocLvPJdsb5KM3BVcN8ZaatyStnAPAIM5J4IgqFz9c",
+      "cdp-version": "1.4.9",
+      "generator": "Elementor 3.28.0; features: additional_custom_breakpoints, e_local_google_fonts; settings: css_print_method-external, google_font-enabled, font_display-auto",
+      "msapplication-TileImage": "https://pristinefinefoods.com/wp-content/uploads/2022/10/cropped-512-by-512-270x270.png"
+    },
+    "contact_info": {
+      "emails": [
+        "info@pristinefinefoods.com"
+      ],
+      "phones": [
+        ""
+      ],
+      "address": null
+    },
+    "social_media": {
+      "facebook": [
+        "https://www.facebook.com/Pristine-Fine-Foods-1938592836281419"
+      ],
+      "instagram": [
+        "https://www.instagram.com/pristinefinefoods/"
+      ],
+      "twitter": [
+        "https://twitter.com/FinePristine"
+      ]
+    },
+    "business_hours": {},
+    "additional_info": {}
+  },
+  {
+    "url": "istanbulfood.ca",
+    "structured_data": {},
+    "meta_data": {
+      "viewport": "width=device-width, initial-scale=1.0",
+      "description": "Toronto's Best Turkish Grocery Store! Find the best fresh cut meat and steaming hot bakery delicacies.",
+      "og:title": "Istanbul Fine Foods - Grocery, Meat & Bakery",
+      "og:type": "website",
+      "og:url": "https://istanbulfood.ca/",
+      "og:description": "Toronto's Best Turkish Grocery Store! Find the best fresh cut meat and steaming hot bakery delicacies.",
+      "og:image": "https://cdn.wdc.studio/2326/website/iffcover.jpg",
+      "twitter:title": "Istanbul Fine Foods - Grocery, Meat & Bakery",
+      "twitter:description": "Toronto's Best Turkish Grocery Store! Find the best fresh cut meat and steaming hot bakery delicacies.",
+      "twitter:image": "https://cdn.wdc.studio/2326/website/iffcover.jpg"
+    },
+    "contact_info": {
+      "emails": [],
+      "phones": [],
+      "address": null
+    },
+    "social_media": {},
+    "business_hours": {},
+    "additional_info": {}
+  },
+  {
+    "url": "urlafinefoods.com",
+    "structured_data": {},
+    "meta_data": {
+      "viewport": "width=device-width, initial-scale=1",
+      "description": "halal food mediterranean food turkish food middle eastern food",
+      "author": "Urla Fine Foods",
+      "generator": "Starfield Technologies; Go Daddy Website Builder 8.0.0000",
+      "og:url": "https://urlafinefoods.com/",
+      "og:site_name": "Urla Fine Foods",
+      "og:title": "Urla Fine Foods",
+      "og:description": "Your local old-world bazaar. Urla Fine Foods is a purveyor of fine foods and ingredients from Turkey and beyond.",
+      "og:type": "website",
+      "og:image": "https://img1.wsimg.com/isteam/ip/3fc5a947-58d3-478b-a8f1-77a168f815cb/blob.png",
+      "og:locale": "en_CA",
+      "twitter:card": "summary",
+      "twitter:title": "Urla Fine Foods",
+      "twitter:description": "Your local old-world bazaar. Urla Fine Foods is a purveyor of fine foods and ingredients from Turkey and beyond.",
+      "twitter:image": "https://img1.wsimg.com/isteam/ip/3fc5a947-58d3-478b-a8f1-77a168f815cb/blob.png",
+      "twitter:image:alt": "Urla Fine Foods",
+      "theme-color": "#b89c80"
+    },
+    "contact_info": {
+      "emails": [],
+      "phones": [
+        ""
+      ],
+      "address": null
+    },
+    "social_media": {
+      "instagram": [
+        "https://www.instagram.com/urlafoods/"
+      ]
+    },
+    "business_hours": {},
+    "additional_info": {}
+  },
+  {
+    "url": null,
+    "structured_data": {},
+    "meta_data": {},
+    "contact_info": {
+      "emails": [],
+      "phones": [],
+      "address": null
+    },
+    "social_media": {},
+    "business_hours": {},
+    "additional_info": {}
+  },
+  {
+    "url": "eastfood.ca",
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": [
+            "GroceryStore",
+            "Organization"
+          ],
+          "@id": "https://eastfood.ca/#organization",
+          "name": "East Food Market, Fresh and Newest Products",
+          "url": "https://eastfood.ca",
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://eastfood.ca/#logo",
+            "url": "https://eastfood.ca/wp-content/uploads/2021/01/east_food_market_2x_logo.png",
+            "contentUrl": "https://eastfood.ca/wp-content/uploads/2021/01/east_food_market_2x_logo.png",
+            "caption": "East Food Market, Fresh and Newest Products",
+            "inLanguage": "en-US",
+            "width": "914",
+            "height": "398"
+          },
+          "image": {
+            "@id": "https://eastfood.ca/#logo"
+          }
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://eastfood.ca/#website",
+          "url": "https://eastfood.ca",
+          "name": "East Food Market, Fresh and Newest Products",
+          "publisher": {
+            "@id": "https://eastfood.ca/#organization"
+          },
+          "inLanguage": "en-US",
+          "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://eastfood.ca/?s={search_term_string}",
+            "query-input": "required name=search_term_string"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "https://eastfood.ca/wp-content/uploads/2021/01/eastfood-1.png",
+          "url": "https://eastfood.ca/wp-content/uploads/2021/01/eastfood-1.png",
+          "width": "1149",
+          "height": "600",
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://eastfood.ca/#webpage",
+          "url": "https://eastfood.ca/",
+          "name": "East Food Market, Turkish Market, Fresh and Newest Products",
+          "datePublished": "2020-12-31T10:51:58+00:00",
+          "dateModified": "2024-05-05T19:48:35+00:00",
+          "about": {
+            "@id": "https://eastfood.ca/#organization"
+          },
+          "isPartOf": {
+            "@id": "https://eastfood.ca/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://eastfood.ca/wp-content/uploads/2021/01/eastfood-1.png"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "Person",
+          "@id": "https://eastfood.ca/author/east-food-admin/",
+          "name": "east-food-admin",
+          "url": "https://eastfood.ca/author/east-food-admin/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/f8f187578fab9a77ecc62988a63d234e?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/f8f187578fab9a77ecc62988a63d234e?s=96&amp;d=mm&amp;r=g",
+            "caption": "east-food-admin",
+            "inLanguage": "en-US"
+          },
+          "worksFor": {
+            "@id": "https://eastfood.ca/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "East Food Market, Turkish Market, Fresh and Newest Products",
+          "datePublished": "2020-12-31T10:51:58+00:00",
+          "dateModified": "2024-05-05T19:48:35+00:00",
+          "author": {
+            "@id": "https://eastfood.ca/author/east-food-admin/",
+            "name": "east-food-admin"
+          },
+          "publisher": {
+            "@id": "https://eastfood.ca/#organization"
+          },
+          "description": "Coffee has a special place in Turkish culture. The word \u201cbreakfast\u201d means something ate before coffee. Turkish coffee is such a tradition that; He even has a",
+          "name": "East Food Market, Turkish Market, Fresh and Newest Products",
+          "@id": "https://eastfood.ca/#richSnippet",
+          "isPartOf": {
+            "@id": "https://eastfood.ca/#webpage"
+          },
+          "image": {
+            "@id": "https://eastfood.ca/wp-content/uploads/2021/01/eastfood-1.png"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://eastfood.ca/#webpage"
+          }
+        }
+      ]
+    },
+    "meta_data": {
+      "description": "Coffee has a special place in Turkish culture. The word \u201cbreakfast\u201d means something ate before coffee. Turkish coffee is such a tradition that; He even has a",
+      "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+      "og:locale": "en_US",
+      "og:type": "website",
+      "og:title": "East Food Market, Turkish Market, Fresh and Newest Products",
+      "og:description": "Coffee has a special place in Turkish culture. The word \u201cbreakfast\u201d means something ate before coffee. Turkish coffee is such a tradition that; He even has a",
+      "og:url": "https://eastfood.ca/",
+      "og:site_name": "East Food Market, Turkish Market, Fresh and Newest Products",
+      "og:updated_time": "2024-05-05T19:48:35+00:00",
+      "og:image": "https://eastfood.ca/wp-content/uploads/2021/01/eastfood-1.png",
+      "og:image:secure_url": "https://eastfood.ca/wp-content/uploads/2021/01/eastfood-1.png",
+      "og:image:width": "1149",
+      "og:image:height": "600",
+      "og:image:alt": "Homepage",
+      "og:image:type": "image/png",
+      "article:published_time": "2020-12-31T10:51:58+00:00",
+      "article:modified_time": "2024-05-05T19:48:35+00:00",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "East Food Market, Turkish Market, Fresh and Newest Products",
+      "twitter:description": "Coffee has a special place in Turkish culture. The word \u201cbreakfast\u201d means something ate before coffee. Turkish coffee is such a tradition that; He even has a",
+      "twitter:image": "https://eastfood.ca/wp-content/uploads/2021/01/eastfood-1.png",
+      "twitter:label1": "Written by",
+      "twitter:data1": "east-food-admin",
+      "twitter:label2": "Time to read",
+      "twitter:data2": "46 minutes",
+      "generator": "East Food v.4.6.6.1604926998",
+      "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",
+      "msapplication-TileImage": "https://eastfood.ca/wp-content/uploads/2020/12/cropped-east-food-market-icon-270x270.png"
+    },
+    "contact_info": {
+      "emails": [
+        "info@eastfood.ca"
+      ],
+      "phones": [
+        "+1"
+      ],
+      "address": null
+    },
+    "social_media": {
+      "facebook": [
+        "https://www.facebook.com/eastfood.ca/"
+      ],
+      "instagram": [
+        "https://www.instagram.com/eastfood.ca/"
+      ]
+    },
+    "business_hours": {},
+    "additional_info": {}
+  },
+  {
+    "url": "montreal.marcheistanbul.com",
+    "structured_data": {
+      "@context": "http://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Accueil",
+          "item": "https://montreal.marcheistanbul.com"
+        }
+      ]
+    },
+    "meta_data": {
+      "viewport": "width=device-width, initial-scale=1.0, height=device-height, minimum-scale=1.0, maximum-scale=1.0",
+      "theme-color": "#a71d20",
+      "og:type": "website",
+      "og:title": "Marche Istanbul Montreal",
+      "og:url": "https://montreal.marcheistanbul.com/",
+      "og:site_name": "Marche Istanbul Montreal",
+      "twitter:card": "summary",
+      "twitter:title": "Marche Istanbul Montreal",
+      "twitter:description": "Marche Istanbul Montreal",
+      "shopify-digital-wallet": "/47391604898/digital_wallets/dialog",
+      "shopify-checkout-api-token": "94be4bed17226a60005ef0db446e46c0",
+      "og:image": "https://cdn.shopify.com/s/files/1/0473/9160/4898/files/logo.png?height=628&pad_color=fff&v=1614322179&width=1200",
+      "og:image:secure_url": "https://cdn.shopify.com/s/files/1/0473/9160/4898/files/logo.png?height=628&pad_color=fff&v=1614322179&width=1200",
+      "og:image:width": "1200",
+      "og:image:height": "628"
+    },
+    "contact_info": {
+      "emails": [
+        "info@marcheistanbul.com"
+      ],
+      "phones": [
+        ""
+      ],
+      "address": null
+    },
+    "social_media": {},
+    "business_hours": {},
+    "additional_info": {}
+  },
+  {
+    "url": "adonisgroup.ca",
+    "structured_data": {},
+    "meta_data": {
+      "viewport": "width=device-width, initial-scale=1",
+      "facebook-domain-verification": "57or395g3xf7zb7sb3xu72g8j8dk2r",
+      "p:domain_verify": "dc28446f1d9aeb1f6749cf5d6230e975",
+      "google-site-verification": "5bbxRo76odXHd_p78BdTQHDoZDyLBn3T_7CzF0eG6wY",
+      "description": "Les supermarch\u00e9s Adonis sont la r\u00e9f\u00e9rence au Qu\u00e9bec pour des produits alimentaires du Moyen-Orient, du Liban et de la M\u00e9diterran\u00e9e."
+    },
+    "contact_info": {
+      "emails": [],
+      "phones": [],
+      "address": null
+    },
+    "social_media": {
+      "facebook": [
+        "https://www.facebook.com/MarcheAdonis"
+      ],
+      "instagram": [
+        "https://www.instagram.com/marcheadonis"
+      ],
+      "linkedin": [
+        "https://www.linkedin.com/company/groupe-adonis-inc-/"
+      ],
+      "youtube": [
+        "https://www.youtube.com/user/LesMarchesAdonis"
+      ]
+    },
+    "business_hours": {},
+    "additional_info": {}
+  },
+  {
+    "url": null,
+    "structured_data": {},
+    "meta_data": {},
+    "contact_info": {
+      "emails": [],
+      "phones": [],
+      "address": null
+    },
+    "social_media": {},
+    "business_hours": {},
+    "additional_info": {}
+  },
+  {
+    "url": "lazbakkal.ca",
+    "structured_data": {},
+    "meta_data": {
+      "author": "Starfall Web Design",
+      "description": "Laz Bakkal Toronto - Your Little Turkiye in Canada",
+      "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+      "google-site-verification": "XOXzsAI6oTEYEwlqp7kCHMplMkUCc8Rztadz-O3epBQ",
+      "og:image": "https://cdn.shopify.com/s/files/1/0320/9055/4506/files/Logo-V.png?height=628&pad_color=ffffff&v=1613548711&width=1200",
+      "og:image:secure_url": "https://cdn.shopify.com/s/files/1/0320/9055/4506/files/Logo-V.png?height=628&pad_color=ffffff&v=1613548711&width=1200",
+      "og:image:width": "1200",
+      "og:image:height": "628",
+      "og:image:alt": "Mahallenizin Bakkal\u0131",
+      "facebook-domain-verification": "has2via1pllvwnlquys965m66m3t74",
+      "shopify-digital-wallet": "/32090554506/digital_wallets/dialog",
+      "shopify-checkout-api-token": "7ee69f7bc5643d5b5412097db9cafbed"
+    },
+    "contact_info": {
+      "emails": [
+        "cay@lazbakkal.ca"
+      ],
+      "phones": [
+        ""
+      ],
+      "address": null
+    },
+    "social_media": {},
+    "business_hours": {},
+    "additional_info": {}
+  },
+  {
+    "url": "turkishfoods.ca",
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://turkishfoods.ca"
+        }
+      ],
+      "name": "My Istanbul Food Mart",
+      "url": "https://turkishfoods.ca",
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://turkishfoods.ca/search?q={search_term_string}",
+        "query-input": "required name=search_term_string"
+      }
+    },
+    "meta_data": {
+      "viewport": "width=device-width, initial-scale=1.0, height=device-height, minimum-scale=1.0, maximum-scale=1.0",
+      "theme-color": "#13315c",
+      "og:type": "website",
+      "og:title": "My Istanbul Food Mart",
+      "og:url": "https://turkishfoods.ca/",
+      "og:site_name": "My Istanbul Food Mart",
+      "twitter:card": "summary",
+      "twitter:title": "My Istanbul Food Mart",
+      "twitter:description": "My Istanbul Food Mart",
+      "shopify-digital-wallet": "/69106041130/digital_wallets/dialog",
+      "shopify-checkout-api-token": "aa7dace8353f9a1eb084f484afa1cb97",
+      "og:image": "https://cdn.shopify.com/s/files/1/0691/0604/1130/files/logo-my-istanbul-food-market.png?height=628&pad_color=ffffff&v=1705144078&width=1200",
+      "og:image:secure_url": "https://cdn.shopify.com/s/files/1/0691/0604/1130/files/logo-my-istanbul-food-market.png?height=628&pad_color=ffffff&v=1705144078&width=1200",
+      "og:image:width": "1200",
+      "og:image:height": "628"
+    },
+    "contact_info": {
+      "emails": [
+        "foodexinca@gmail.com"
+      ],
+      "phones": [
+        ""
+      ],
+      "address": null
+    },
+    "social_media": {},
+    "business_hours": {},
+    "additional_info": {}
+  },
+  {
+    "url": "solmazfoods.ca",
+    "structured_data": {},
+    "meta_data": {
+      "viewport": "width=device-width, initial-scale=1, minimum-scale=1",
+      "robots": "max-image-preview:large"
+    },
+    "contact_info": {
+      "emails": [
+        "info@solmazfoods.ca",
+        "Usinfo@solmazfoods.ca"
+      ],
+      "phones": [
+        ""
+      ],
+      "address": null
+    },
+    "social_media": {},
+    "business_hours": {},
+    "additional_info": {}
+  },
+  {
+    "url": "meatpoint.ca",
+    "structured_data": {},
+    "meta_data": {
+      "robots": "max-image-preview:large",
+      "generator": "Divi Child v.4.7.7.1608296669",
+      "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",
+      "msapplication-TileImage": "https://www.meatpoint.ca/wp-content/uploads/2021/01/icon-meatpoint-square-1.png"
+    },
+    "contact_info": {
+      "emails": [
+        "info@meatpoint.ca"
+      ],
+      "phones": [
+        "+1"
+      ],
+      "address": null
+    },
+    "social_media": {
+      "facebook": [
+        "https://www.facebook.com/meatpointca/"
+      ],
+      "instagram": [
+        "https://www.instagram.com/p/CHiWl3kBOXL/",
+        "https://www.instagram.com/meatpointca/",
+        "https://www.instagram.com/p/B6rZOjdhy0R/",
+        "https://www.instagram.com/p/CEAw23sBwjb/"
+      ]
+    },
+    "business_hours": {},
+    "additional_info": {}
+  },
+  {
+    "url": "iqbalfoods.ca",
+    "structured_data": {},
+    "meta_data": {
+      "viewport": "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0",
+      "og:site_name": "Iqbal Foods Inc",
+      "og:title": "Iqbal Foods  ",
+      "og:description": "Iqbal Halal Foods has been recognized for its quality and a broad range of Asian products with the best price. We always make sure that our customers can f",
+      "og:url": "https://iqbalfoods.ca/",
+      "og:type": "website",
+      "og:image": "https://static.tossdown.com/site/assets/media/Iqbal_foods_logo_white_2x2.png",
+      "og:image:width": "200",
+      "og:image:height": "200",
+      "og:image:alt": "Iqbal Foods Inc",
+      "og:locale": "en_US",
+      "product:price:currency": "CAD",
+      "description": "Iqbal Halal Foods has been recognized for its quality and a broad range of Asian products with the best price. We always make sure that our customers can f",
+      "keywords": "Iqbal Foods Inc, Mississauga, Ajax, North York, Scarborough, East York, ",
+      "smartbanner:title": "Iqbal Foods Inc",
+      "smartbanner:author": "Iqbal Foods Inc",
+      "smartbanner:images": "https://static.tossdown.com/logos/a71c0358-a4a1-4ff4-abd0-77b0c480b268.png",
+      "smartbanner:price": "FREE",
+      "smartbanner:price-suffix-apple": " - On the App Store",
+      "smartbanner:price-suffix-google": " - In Google Play",
+      "smartbanner:icon-apple": "https://iqbalfoods.ca/assets/images/apple-app-store.png",
+      "smartbanner:icon-google": "https://iqbalfoods.ca/assets/images/google-app-store.png",
+      "smartbanner:button": "Install App",
+      "smartbanner:button-url-apple": "https://apps.apple.com/pk/app/iqbal-foods/id1528706742",
+      "smartbanner:button-url-google": "https://play.google.com/store/apps/details?id=com.tossdown.iqbalfoods",
+      "smartbanner:enabled-platforms": "android,ios",
+      "google-site-verification": "ucq0aRaClu2MxFnUn0cTAm3QRW_SMc9OepELe5w8KxM",
+      "facebook-domain-verification": "ki0ebcjygxkpoy6f1vkod9ytsevbhv"
+    },
+    "contact_info": {
+      "emails": [],
+      "phones": [
+        "+1"
+      ],
+      "address": null
+    },
+    "social_media": {
+      "facebook": [
+        "https://www.facebook.com/IqbalFoodsInc"
+      ],
+      "instagram": [
+        "https://www.instagram.com/iqbalfoods/?hl=en"
+      ],
+      "linkedin": [
+        "https://www.linkedin.com/company/7299886/admin/dashboard/"
+      ]
+    },
+    "business_hours": {},
+    "additional_info": {}
+  },
+  {
+    "url": null,
+    "structured_data": {},
+    "meta_data": {},
+    "contact_info": {
+      "emails": [],
+      "phones": [],
+      "address": null
+    },
+    "social_media": {},
+    "business_hours": {},
+    "additional_info": {}
+  },
+  {
+    "url": "pristinefinefoods.com",
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": [
+            "FoodEstablishment",
+            "Organization"
+          ],
+          "@id": "https://pristinefinefoods.com/#organization",
+          "name": "Pristine Fine Foods",
+          "url": "https://pristinefinefoods.com",
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://pristinefinefoods.com/#logo",
+            "url": "https://pristinefinefoods.com/wp-content/uploads/2022/05/logo_black-1.svg",
+            "contentUrl": "https://pristinefinefoods.com/wp-content/uploads/2022/05/logo_black-1.svg",
+            "caption": "Pristine Fine Foods",
+            "inLanguage": "en-US"
+          },
+          "openingHours": [
+            "Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday 09:00-17:00"
+          ],
+          "image": {
+            "@id": "https://pristinefinefoods.com/#logo"
+          }
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://pristinefinefoods.com/#website",
+          "url": "https://pristinefinefoods.com",
+          "name": "Pristine Fine Foods",
+          "publisher": {
+            "@id": "https://pristinefinefoods.com/#organization"
+          },
+          "inLanguage": "en-US",
+          "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://pristinefinefoods.com/?s={search_term_string}",
+            "query-input": "required name=search_term_string"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "https://pristinefinefoods.com/wp-content/uploads/2022/06/logo-1.svg",
+          "url": "https://pristinefinefoods.com/wp-content/uploads/2022/06/logo-1.svg",
+          "width": "200",
+          "height": "200",
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://pristinefinefoods.com/#webpage",
+          "url": "https://pristinefinefoods.com/",
+          "name": "Pristine Fine Foods",
+          "datePublished": "2022-05-29T02:39:06+00:00",
+          "dateModified": "2025-01-07T14:56:33+00:00",
+          "about": {
+            "@id": "https://pristinefinefoods.com/#organization"
+          },
+          "isPartOf": {
+            "@id": "https://pristinefinefoods.com/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://pristinefinefoods.com/wp-content/uploads/2022/06/logo-1.svg"
+          },
+          "inLanguage": "en-US"
+        }
+      ]
+    },
+    "meta_data": {
+      "viewport": "width=device-width, initial-scale=1",
+      "description": "Pristine Fine Foods | Grocery Outlet Toronto | Cash and Carry Toronto open to Public | Turkish Grocery | Italian Grocery Store",
+      "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+      "og:locale": "en_US",
+      "og:type": "website",
+      "og:title": "Pristine Fine Foods",
+      "og:description": "Pristine Fine Foods | Grocery Outlet Toronto | Cash and Carry Toronto open to Public | Turkish Grocery | Italian Grocery Store",
+      "og:url": "https://pristinefinefoods.com/",
+      "og:site_name": "Pristine Fine Foods",
+      "og:updated_time": "2025-01-07T14:56:33+00:00",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Pristine Fine Foods",
+      "twitter:description": "Pristine Fine Foods | Grocery Outlet Toronto | Cash and Carry Toronto open to Public | Turkish Grocery | Italian Grocery Store",
+      "twitter:label1": "Written by",
+      "twitter:data1": "PristineFineFoods",
+      "twitter:label2": "Time to read",
+      "twitter:data2": "2 minutes",
+      "google-site-verification": "8kocLvPJdsb5KM3BVcN8ZaatyStnAPAIM5J4IgqFz9c",
+      "cdp-version": "1.4.9",
+      "generator": "Elementor 3.28.0; features: additional_custom_breakpoints, e_local_google_fonts; settings: css_print_method-external, google_font-enabled, font_display-auto",
+      "msapplication-TileImage": "https://pristinefinefoods.com/wp-content/uploads/2022/10/cropped-512-by-512-270x270.png"
+    },
+    "contact_info": {
+      "emails": [
+        "info@pristinefinefoods.com"
+      ],
+      "phones": [
+        ""
+      ],
+      "address": null
+    },
+    "social_media": {
+      "facebook": [
+        "https://www.facebook.com/Pristine-Fine-Foods-1938592836281419"
+      ],
+      "instagram": [
+        "https://www.instagram.com/pristinefinefoods/"
+      ],
+      "twitter": [
+        "https://twitter.com/FinePristine"
+      ]
+    },
+    "business_hours": {},
+    "additional_info": {}
+  },
+  {
+    "url": "istanbulfood.ca",
+    "structured_data": {},
+    "meta_data": {
+      "viewport": "width=device-width, initial-scale=1.0",
+      "description": "Toronto's Best Turkish Grocery Store! Find the best fresh cut meat and steaming hot bakery delicacies.",
+      "og:title": "Istanbul Fine Foods - Grocery, Meat & Bakery",
+      "og:type": "website",
+      "og:url": "https://istanbulfood.ca/",
+      "og:description": "Toronto's Best Turkish Grocery Store! Find the best fresh cut meat and steaming hot bakery delicacies.",
+      "og:image": "https://cdn.wdc.studio/2326/website/iffcover.jpg",
+      "twitter:title": "Istanbul Fine Foods - Grocery, Meat & Bakery",
+      "twitter:description": "Toronto's Best Turkish Grocery Store! Find the best fresh cut meat and steaming hot bakery delicacies.",
+      "twitter:image": "https://cdn.wdc.studio/2326/website/iffcover.jpg"
+    },
+    "contact_info": {
+      "emails": [],
+      "phones": [],
+      "address": null
+    },
+    "social_media": {},
+    "business_hours": {},
+    "additional_info": {}
+  },
+  {
+    "url": "urlafinefoods.com",
+    "structured_data": {},
+    "meta_data": {
+      "viewport": "width=device-width, initial-scale=1",
+      "description": "halal food mediterranean food turkish food middle eastern food",
+      "author": "Urla Fine Foods",
+      "generator": "Starfield Technologies; Go Daddy Website Builder 8.0.0000",
+      "og:url": "https://urlafinefoods.com/",
+      "og:site_name": "Urla Fine Foods",
+      "og:title": "Urla Fine Foods",
+      "og:description": "Your local old-world bazaar. Urla Fine Foods is a purveyor of fine foods and ingredients from Turkey and beyond.",
+      "og:type": "website",
+      "og:image": "https://img1.wsimg.com/isteam/ip/3fc5a947-58d3-478b-a8f1-77a168f815cb/blob.png",
+      "og:locale": "en_CA",
+      "twitter:card": "summary",
+      "twitter:title": "Urla Fine Foods",
+      "twitter:description": "Your local old-world bazaar. Urla Fine Foods is a purveyor of fine foods and ingredients from Turkey and beyond.",
+      "twitter:image": "https://img1.wsimg.com/isteam/ip/3fc5a947-58d3-478b-a8f1-77a168f815cb/blob.png",
+      "twitter:image:alt": "Urla Fine Foods",
+      "theme-color": "#b89c80"
+    },
+    "contact_info": {
+      "emails": [],
+      "phones": [
+        ""
+      ],
+      "address": null
+    },
+    "social_media": {
+      "instagram": [
+        "https://www.instagram.com/urlafoods/"
+      ]
+    },
+    "business_hours": {},
+    "additional_info": {}
+  },
+  {
+    "url": null,
+    "structured_data": {},
+    "meta_data": {},
+    "contact_info": {
+      "emails": [],
+      "phones": [],
+      "address": null
+    },
+    "social_media": {},
+    "business_hours": {},
+    "additional_info": {}
+  },
+  {
+    "url": "eastfood.ca",
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": [
+            "GroceryStore",
+            "Organization"
+          ],
+          "@id": "https://eastfood.ca/#organization",
+          "name": "East Food Market, Fresh and Newest Products",
+          "url": "https://eastfood.ca",
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://eastfood.ca/#logo",
+            "url": "https://eastfood.ca/wp-content/uploads/2021/01/east_food_market_2x_logo.png",
+            "contentUrl": "https://eastfood.ca/wp-content/uploads/2021/01/east_food_market_2x_logo.png",
+            "caption": "East Food Market, Fresh and Newest Products",
+            "inLanguage": "en-US",
+            "width": "914",
+            "height": "398"
+          },
+          "image": {
+            "@id": "https://eastfood.ca/#logo"
+          }
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://eastfood.ca/#website",
+          "url": "https://eastfood.ca",
+          "name": "East Food Market, Fresh and Newest Products",
+          "publisher": {
+            "@id": "https://eastfood.ca/#organization"
+          },
+          "inLanguage": "en-US",
+          "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://eastfood.ca/?s={search_term_string}",
+            "query-input": "required name=search_term_string"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "https://eastfood.ca/wp-content/uploads/2021/01/eastfood-1.png",
+          "url": "https://eastfood.ca/wp-content/uploads/2021/01/eastfood-1.png",
+          "width": "1149",
+          "height": "600",
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://eastfood.ca/#webpage",
+          "url": "https://eastfood.ca/",
+          "name": "East Food Market, Turkish Market, Fresh and Newest Products",
+          "datePublished": "2020-12-31T10:51:58+00:00",
+          "dateModified": "2024-05-05T19:48:35+00:00",
+          "about": {
+            "@id": "https://eastfood.ca/#organization"
+          },
+          "isPartOf": {
+            "@id": "https://eastfood.ca/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://eastfood.ca/wp-content/uploads/2021/01/eastfood-1.png"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "Person",
+          "@id": "https://eastfood.ca/author/east-food-admin/",
+          "name": "east-food-admin",
+          "url": "https://eastfood.ca/author/east-food-admin/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/f8f187578fab9a77ecc62988a63d234e?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/f8f187578fab9a77ecc62988a63d234e?s=96&amp;d=mm&amp;r=g",
+            "caption": "east-food-admin",
+            "inLanguage": "en-US"
+          },
+          "worksFor": {
+            "@id": "https://eastfood.ca/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "East Food Market, Turkish Market, Fresh and Newest Products",
+          "datePublished": "2020-12-31T10:51:58+00:00",
+          "dateModified": "2024-05-05T19:48:35+00:00",
+          "author": {
+            "@id": "https://eastfood.ca/author/east-food-admin/",
+            "name": "east-food-admin"
+          },
+          "publisher": {
+            "@id": "https://eastfood.ca/#organization"
+          },
+          "description": "Coffee has a special place in Turkish culture. The word \u201cbreakfast\u201d means something ate before coffee. Turkish coffee is such a tradition that; He even has a",
+          "name": "East Food Market, Turkish Market, Fresh and Newest Products",
+          "@id": "https://eastfood.ca/#richSnippet",
+          "isPartOf": {
+            "@id": "https://eastfood.ca/#webpage"
+          },
+          "image": {
+            "@id": "https://eastfood.ca/wp-content/uploads/2021/01/eastfood-1.png"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://eastfood.ca/#webpage"
+          }
+        }
+      ]
+    },
+    "meta_data": {
+      "description": "Coffee has a special place in Turkish culture. The word \u201cbreakfast\u201d means something ate before coffee. Turkish coffee is such a tradition that; He even has a",
+      "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+      "og:locale": "en_US",
+      "og:type": "website",
+      "og:title": "East Food Market, Turkish Market, Fresh and Newest Products",
+      "og:description": "Coffee has a special place in Turkish culture. The word \u201cbreakfast\u201d means something ate before coffee. Turkish coffee is such a tradition that; He even has a",
+      "og:url": "https://eastfood.ca/",
+      "og:site_name": "East Food Market, Turkish Market, Fresh and Newest Products",
+      "og:updated_time": "2024-05-05T19:48:35+00:00",
+      "og:image": "https://eastfood.ca/wp-content/uploads/2021/01/eastfood-1.png",
+      "og:image:secure_url": "https://eastfood.ca/wp-content/uploads/2021/01/eastfood-1.png",
+      "og:image:width": "1149",
+      "og:image:height": "600",
+      "og:image:alt": "Homepage",
+      "og:image:type": "image/png",
+      "article:published_time": "2020-12-31T10:51:58+00:00",
+      "article:modified_time": "2024-05-05T19:48:35+00:00",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "East Food Market, Turkish Market, Fresh and Newest Products",
+      "twitter:description": "Coffee has a special place in Turkish culture. The word \u201cbreakfast\u201d means something ate before coffee. Turkish coffee is such a tradition that; He even has a",
+      "twitter:image": "https://eastfood.ca/wp-content/uploads/2021/01/eastfood-1.png",
+      "twitter:label1": "Written by",
+      "twitter:data1": "east-food-admin",
+      "twitter:label2": "Time to read",
+      "twitter:data2": "46 minutes",
+      "generator": "East Food v.4.6.6.1604926998",
+      "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",
+      "msapplication-TileImage": "https://eastfood.ca/wp-content/uploads/2020/12/cropped-east-food-market-icon-270x270.png"
+    },
+    "contact_info": {
+      "emails": [
+        "info@eastfood.ca"
+      ],
+      "phones": [
+        "+1"
+      ],
+      "address": null
+    },
+    "social_media": {
+      "facebook": [
+        "https://www.facebook.com/eastfood.ca/"
+      ],
+      "instagram": [
+        "https://www.instagram.com/eastfood.ca/"
+      ]
+    },
+    "business_hours": {},
+    "additional_info": {}
+  },
+  {
+    "url": "montreal.marcheistanbul.com",
+    "structured_data": {
+      "@context": "http://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Accueil",
+          "item": "https://montreal.marcheistanbul.com"
+        }
+      ]
+    },
+    "meta_data": {
+      "viewport": "width=device-width, initial-scale=1.0, height=device-height, minimum-scale=1.0, maximum-scale=1.0",
+      "theme-color": "#a71d20",
+      "og:type": "website",
+      "og:title": "Marche Istanbul Montreal",
+      "og:url": "https://montreal.marcheistanbul.com/",
+      "og:site_name": "Marche Istanbul Montreal",
+      "twitter:card": "summary",
+      "twitter:title": "Marche Istanbul Montreal",
+      "twitter:description": "Marche Istanbul Montreal",
+      "shopify-digital-wallet": "/47391604898/digital_wallets/dialog",
+      "shopify-checkout-api-token": "94be4bed17226a60005ef0db446e46c0",
+      "og:image": "https://cdn.shopify.com/s/files/1/0473/9160/4898/files/logo.png?height=628&pad_color=fff&v=1614322179&width=1200",
+      "og:image:secure_url": "https://cdn.shopify.com/s/files/1/0473/9160/4898/files/logo.png?height=628&pad_color=fff&v=1614322179&width=1200",
+      "og:image:width": "1200",
+      "og:image:height": "628"
+    },
+    "contact_info": {
+      "emails": [
+        "info@marcheistanbul.com"
+      ],
+      "phones": [
+        ""
+      ],
+      "address": null
+    },
+    "social_media": {},
+    "business_hours": {},
+    "additional_info": {}
+  },
+  {
+    "url": "adonisgroup.ca",
+    "structured_data": {},
+    "meta_data": {
+      "viewport": "width=device-width, initial-scale=1",
+      "facebook-domain-verification": "57or395g3xf7zb7sb3xu72g8j8dk2r",
+      "p:domain_verify": "dc28446f1d9aeb1f6749cf5d6230e975",
+      "google-site-verification": "5bbxRo76odXHd_p78BdTQHDoZDyLBn3T_7CzF0eG6wY",
+      "description": "Les supermarch\u00e9s Adonis sont la r\u00e9f\u00e9rence au Qu\u00e9bec pour des produits alimentaires du Moyen-Orient, du Liban et de la M\u00e9diterran\u00e9e."
+    },
+    "contact_info": {
+      "emails": [],
+      "phones": [],
+      "address": null
+    },
+    "social_media": {
+      "facebook": [
+        "https://www.facebook.com/MarcheAdonis"
+      ],
+      "instagram": [
+        "https://www.instagram.com/marcheadonis"
+      ],
+      "linkedin": [
+        "https://www.linkedin.com/company/groupe-adonis-inc-/"
+      ],
+      "youtube": [
+        "https://www.youtube.com/user/LesMarchesAdonis"
+      ]
+    },
+    "business_hours": {},
+    "additional_info": {}
+  },
+  {
+    "url": null,
+    "structured_data": {},
+    "meta_data": {},
+    "contact_info": {
+      "emails": [],
+      "phones": [],
+      "address": null
+    },
+    "social_media": {},
+    "business_hours": {},
+    "additional_info": {}
+  },
+  {
+    "url": "lazbakkal.ca",
+    "structured_data": {},
+    "meta_data": {
+      "author": "Starfall Web Design",
+      "description": "Laz Bakkal Toronto - Your Little Turkiye in Canada",
+      "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+      "google-site-verification": "XOXzsAI6oTEYEwlqp7kCHMplMkUCc8Rztadz-O3epBQ",
+      "og:image": "https://cdn.shopify.com/s/files/1/0320/9055/4506/files/Logo-V.png?height=628&pad_color=ffffff&v=1613548711&width=1200",
+      "og:image:secure_url": "https://cdn.shopify.com/s/files/1/0320/9055/4506/files/Logo-V.png?height=628&pad_color=ffffff&v=1613548711&width=1200",
+      "og:image:width": "1200",
+      "og:image:height": "628",
+      "og:image:alt": "Mahallenizin Bakkal\u0131",
+      "facebook-domain-verification": "has2via1pllvwnlquys965m66m3t74",
+      "shopify-digital-wallet": "/32090554506/digital_wallets/dialog",
+      "shopify-checkout-api-token": "7ee69f7bc5643d5b5412097db9cafbed"
+    },
+    "contact_info": {
+      "emails": [
+        "cay@lazbakkal.ca"
+      ],
+      "phones": [
+        ""
+      ],
+      "address": null
+    },
+    "social_media": {},
+    "business_hours": {},
+    "additional_info": {}
+  },
+  {
+    "url": "turkishfoods.ca",
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://turkishfoods.ca"
+        }
+      ],
+      "name": "My Istanbul Food Mart",
+      "url": "https://turkishfoods.ca",
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://turkishfoods.ca/search?q={search_term_string}",
+        "query-input": "required name=search_term_string"
+      }
+    },
+    "meta_data": {
+      "viewport": "width=device-width, initial-scale=1.0, height=device-height, minimum-scale=1.0, maximum-scale=1.0",
+      "theme-color": "#13315c",
+      "og:type": "website",
+      "og:title": "My Istanbul Food Mart",
+      "og:url": "https://turkishfoods.ca/",
+      "og:site_name": "My Istanbul Food Mart",
+      "twitter:card": "summary",
+      "twitter:title": "My Istanbul Food Mart",
+      "twitter:description": "My Istanbul Food Mart",
+      "shopify-digital-wallet": "/69106041130/digital_wallets/dialog",
+      "shopify-checkout-api-token": "aa7dace8353f9a1eb084f484afa1cb97",
+      "og:image": "https://cdn.shopify.com/s/files/1/0691/0604/1130/files/logo-my-istanbul-food-market.png?height=628&pad_color=ffffff&v=1705144078&width=1200",
+      "og:image:secure_url": "https://cdn.shopify.com/s/files/1/0691/0604/1130/files/logo-my-istanbul-food-market.png?height=628&pad_color=ffffff&v=1705144078&width=1200",
+      "og:image:width": "1200",
+      "og:image:height": "628"
+    },
+    "contact_info": {
+      "emails": [
+        "foodexinca@gmail.com"
+      ],
+      "phones": [
+        ""
+      ],
+      "address": null
+    },
+    "social_media": {},
+    "business_hours": {},
+    "additional_info": {}
+  },
+  {
+    "url": "solmazfoods.ca",
+    "structured_data": {},
+    "meta_data": {
+      "viewport": "width=device-width, initial-scale=1, minimum-scale=1",
+      "robots": "max-image-preview:large"
+    },
+    "contact_info": {
+      "emails": [
+        "info@solmazfoods.ca",
+        "Usinfo@solmazfoods.ca"
+      ],
+      "phones": [
+        ""
+      ],
+      "address": null
+    },
+    "social_media": {},
+    "business_hours": {},
+    "additional_info": {}
+  },
+  {
+    "url": "meatpoint.ca",
+    "structured_data": {},
+    "meta_data": {
+      "robots": "max-image-preview:large",
+      "generator": "Divi Child v.4.7.7.1608296669",
+      "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",
+      "msapplication-TileImage": "https://www.meatpoint.ca/wp-content/uploads/2021/01/icon-meatpoint-square-1.png"
+    },
+    "contact_info": {
+      "emails": [
+        "info@meatpoint.ca"
+      ],
+      "phones": [
+        "+1"
+      ],
+      "address": null
+    },
+    "social_media": {
+      "facebook": [
+        "https://www.facebook.com/meatpointca/"
+      ],
+      "instagram": [
+        "https://www.instagram.com/p/CHiWl3kBOXL/",
+        "https://www.instagram.com/meatpointca/",
+        "https://www.instagram.com/p/B6rZOjdhy0R/",
+        "https://www.instagram.com/p/CEAw23sBwjb/"
+      ]
+    },
+    "business_hours": {},
+    "additional_info": {}
+  },
+  {
+    "url": "iqbalfoods.ca",
+    "structured_data": {},
+    "meta_data": {
+      "viewport": "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0",
+      "og:site_name": "Iqbal Foods Inc",
+      "og:title": "Iqbal Foods  ",
+      "og:description": "Iqbal Halal Foods has been recognized for its quality and a broad range of Asian products with the best price. We always make sure that our customers can f",
+      "og:url": "https://iqbalfoods.ca/",
+      "og:type": "website",
+      "og:image": "https://static.tossdown.com/site/assets/media/Iqbal_foods_logo_white_2x2.png",
+      "og:image:width": "200",
+      "og:image:height": "200",
+      "og:image:alt": "Iqbal Foods Inc",
+      "og:locale": "en_US",
+      "product:price:currency": "CAD",
+      "description": "Iqbal Halal Foods has been recognized for its quality and a broad range of Asian products with the best price. We always make sure that our customers can f",
+      "keywords": "Iqbal Foods Inc, Mississauga, Ajax, North York, Scarborough, East York, ",
+      "smartbanner:title": "Iqbal Foods Inc",
+      "smartbanner:author": "Iqbal Foods Inc",
+      "smartbanner:images": "https://static.tossdown.com/logos/a71c0358-a4a1-4ff4-abd0-77b0c480b268.png",
+      "smartbanner:price": "FREE",
+      "smartbanner:price-suffix-apple": " - On the App Store",
+      "smartbanner:price-suffix-google": " - In Google Play",
+      "smartbanner:icon-apple": "https://iqbalfoods.ca/assets/images/apple-app-store.png",
+      "smartbanner:icon-google": "https://iqbalfoods.ca/assets/images/google-app-store.png",
+      "smartbanner:button": "Install App",
+      "smartbanner:button-url-apple": "https://apps.apple.com/pk/app/iqbal-foods/id1528706742",
+      "smartbanner:button-url-google": "https://play.google.com/store/apps/details?id=com.tossdown.iqbalfoods",
+      "smartbanner:enabled-platforms": "android,ios",
+      "google-site-verification": "ucq0aRaClu2MxFnUn0cTAm3QRW_SMc9OepELe5w8KxM",
+      "facebook-domain-verification": "ki0ebcjygxkpoy6f1vkod9ytsevbhv"
+    },
+    "contact_info": {
+      "emails": [],
+      "phones": [
+        "+1"
+      ],
+      "address": null
+    },
+    "social_media": {
+      "facebook": [
+        "https://www.facebook.com/IqbalFoodsInc"
+      ],
+      "instagram": [
+        "https://www.instagram.com/iqbalfoods/?hl=en"
+      ],
+      "linkedin": [
+        "https://www.linkedin.com/company/7299886/admin/dashboard/"
+      ]
+    },
+    "business_hours": {},
+    "additional_info": {}
+  },
+  {
+    "url": null,
+    "structured_data": {},
+    "meta_data": {},
+    "contact_info": {
+      "emails": [],
+      "phones": [],
+      "address": null
+    },
+    "social_media": {},
+    "business_hours": {},
+    "additional_info": {}
+  }
+]
